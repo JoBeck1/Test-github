@@ -2,4 +2,4 @@
 
 ## What is GIT
 
-GIT is a system about that and that..
+GIT is a system (VSC) about that and that..
